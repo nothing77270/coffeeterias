@@ -163,11 +163,11 @@ transition: 3s;
     display: flex;
     justify-content: space-between;
     align-items: center;
+     padding: 0 55px 0 55px;
 } 
 
 .box_text {
     width: 639px;
-   padding-left: 50px;
 }
 
 .box_text h1{
@@ -198,6 +198,8 @@ color: white;
     position: absolute;
     top: 1300px;
     left: 1100px;
+    display: flex;
+    justify-content: end;
 }
 
 footer {
